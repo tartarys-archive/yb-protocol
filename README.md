@@ -27,4 +27,5 @@ Maintained under the guardianship of the Tartarys community.
 
 Raw PDF:
 https://raw.githubusercontent.com/tartarys-archive/yb-protocol/main/paper/YB_Protocol_v1.pdf.pdf
+
 Contact: tartarysempire@proton.me
